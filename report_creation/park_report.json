@@ -1,0 +1,88 @@
+[
+    {
+      "report_id": 1,
+      "input_prompt": "This was my first time renting a park shelter, and I brought a group of 15 people. Overall, the park was clean, but the restrooms needed more attention, and there was some broken equipment in the parking area, which affected safety. The grills were rusty, and the playground felt unsafe, so I wouldn’t rent a shelter here again due to poor maintenance and safety concerns.",
+      "output_fields": {
+        "Was_This_Your_First_Time_Renting_A_Park_Shelter": "YES",
+        "How_Many_Guests_Were_In_Your_Party": 15,
+        "Park_Cleanliness": "Good",
+        "Park_Cleanliness_Nature_of_the_Problem": "Restrooms needed cleaning.",
+        "Park_Safety": "Good",
+        "Park_Safety_Nature_of_the_Problem": "Some broken equipment in the parking area.",
+        "General_Condition_of_Equipment": "Poor",
+        "General_Condition_of_Equipment_Nature_of_the_Problem": "Grills were rusty, and the playground was not safe.",
+        "Would_You_Rent_A_Park_Shelter_In_The_Future": "NO",
+        "If_No_Please_State_Your_Reasons": "Poor maintenance and unsafe equipment.",
+        "Additional_Feedback": "Restrooms should be checked more frequently."
+      }
+    },
+    {
+      "report_id": 2,
+      "input_prompt": "I have rented park shelters before, and this time I had a large group of 50 people. The park was average in cleanliness, with overflowing trash bins, but the safety was very good. However, the water fountains were not working properly, and I would rent a shelter again if improvements in trash management were made.",
+      "output_fields": {
+        "Was_This_Your_First_Time_Renting_A_Park_Shelter": "NO",
+        "How_Many_Guests_Were_In_Your_Party": 50,
+        "Park_Cleanliness": "Average",
+        "Park_Cleanliness_Nature_of_the_Problem": "Trash bins were overflowing.",
+        "Park_Safety": "Very Good",
+        "Park_Safety_Nature_of_the_Problem": "No problems noted.",
+        "General_Condition_of_Equipment": "Good",
+        "General_Condition_of_Equipment_Nature_of_the_Problem": "Water fountains were not functioning properly.",
+        "Would_You_Rent_A_Park_Shelter_In_The_Future": "YES",
+        "If_No_Please_State_Your_Reasons": "",
+        "Additional_Feedback": "We had a good time overall but would like to see better trash management."
+      }
+    },
+    {
+      "report_id": 3,
+      "input_prompt": "This was my first time renting a park shelter, and I had a small group of 15. While the park was generally clean, the restrooms were in need of cleaning, and there was some broken equipment in the parking area. The grills were rusty, and the playground was not safe, which makes me hesitant to rent here again due to maintenance and safety issues.",
+      "output_fields": {
+        "Was_This_Your_First_Time_Renting_A_Park_Shelter": "YES",
+        "How_Many_Guests_Were_In_Your_Party": 15,
+        "Park_Cleanliness": "Good",
+        "Park_Cleanliness_Nature_of_the_Problem": "Restrooms needed cleaning.",
+        "Park_Safety": "Good",
+        "Park_Safety_Nature_of_the_Problem": "Some broken equipment in the parking area.",
+        "General_Condition_of_Equipment": "Poor",
+        "General_Condition_of_Equipment_Nature_of_the_Problem": "Grills were rusty, and the playground was not safe.",
+        "Would_You_Rent_A_Park_Shelter_In_The_Future": "NO",
+        "If_No_Please_State_Your_Reasons": "Poor maintenance and unsafe equipment.",
+        "Additional_Feedback": "Restrooms should be checked more frequently."
+      }
+    },
+    {
+      "report_id": 4,
+      "input_prompt": "I have rented park shelters before, and this time I had a group of 30. The cleanliness was poor, with litter everywhere and unclean restrooms. The park's safety was average, with some uneven surfaces posing risks, and the equipment was very poor. This park needs serious attention before I would consider renting again.",
+      "output_fields": {
+        "Was_This_Your_First_Time_Renting_A_Park_Shelter": "NO",
+        "How_Many_Guests_Were_In_Your_Party": 30,
+        "Park_Cleanliness": "Poor",
+        "Park_Cleanliness_Nature_of_the_Problem": "Litter everywhere, restrooms were unclean.",
+        "Park_Safety": "Average",
+        "Park_Safety_Nature_of_the_Problem": "The shelter area had some uneven surfaces, posing a risk.",
+        "General_Condition_of_Equipment": "Very Poor",
+        "General_Condition_of_Equipment_Nature_of_the_Problem": "Grills and playground equipment were damaged.",
+        "Would_You_Rent_A_Park_Shelter_In_The_Future": "NO",
+        "If_No_Please_State_Your_Reasons": "The condition of the park was unacceptable.",
+        "Additional_Feedback": "This park needs serious attention."
+      }
+    },
+    {
+      "report_id": 5,
+      "input_prompt": "This was my first time renting a park shelter, and I organized an event for 25 guests. The park was very clean and the safety was also very good. There was a minor issue with one of the playground swings being slightly worn, but overall, the experience was lovely and I would definitely rent here again.",
+      "output_fields": {
+        "Was_This_Your_First_Time_Renting_A_Park_Shelter": "YES",
+        "How_Many_Guests_Were_In_Your_Party": 25,
+        "Park_Cleanliness": "Very Good",
+        "Park_Cleanliness_Nature_of_the_Problem": "None, everything was perfect.",
+        "Park_Safety": "Very Good",
+        "Park_Safety_Nature_of_the_Problem": "No issues.",
+        "General_Condition_of_Equipment": "Good",
+        "General_Condition_of_Equipment_Nature_of_the_Problem": "One of the playground swings was slightly worn.",
+        "Would_You_Rent_A_Park_Shelter_In_The_Future": "YES",
+        "If_No_Please_State_Your_Reasons": "",
+        "Additional_Feedback": "Lovely experience! We will return next year."
+      }
+    }
+  ]
+  
